@@ -12,4 +12,5 @@ Example of result is here:
 Dependencies:
 Reportlab - for creating PDFs(only works with Python 2.7, unfortunately)
 
+=======
 Numpy - for statistics functions
